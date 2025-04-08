@@ -1,4 +1,5 @@
 Einops 'rearrange' Implementation from Scratch
+
 This notebook implements a subset of the 'einops' library's 'rearrange' functionality using only Python and NumPy.
 
 Approach:
